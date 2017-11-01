@@ -1,0 +1,13 @@
+ErrorDocument 401 "/~peter/portal/public/error.php"
+ErrorDocument 403 "/~peter/portal/public/error.php"
+ErrorDocument 404 "/~peter/portal/public/error.php"
+ErrorDocument 500 "/~peter/portal/public/error.php"
+
+#RewriteEngine on
+#Redirect 301 /~peter/portal/index.html /~peter/portal/public/
+
+
+#Order Allow,Deny
+#Deny from All
+#Allow from localhost
+
