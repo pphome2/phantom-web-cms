@@ -1,0 +1,19 @@
+
+Minden fájl és könyvtárat másoljunk a szerverre.
+
+Módosítani kell a a főkönyvtár .htaccess fájl tartalmát a
+szerveren lévő teljes útvonallal (pl.: /var/www/www.valaki.hu/...)
+
+Amennyiben nem használunk bejelentkezést az admin könyvtárban lévő
+.htaccess módosítani kell a .htpasswd megfelelő útvonalával és
+az összes # jelet ki kell venni. Ekkor az admin könyvtárba lépéshet
+felhasználót, jelszót kér, ami a config könyvtár .htpasswd táralt.
+Felhasználó felvitele: .htpasswd fájlba felhasználónév és md5
+kódolt jelszó.
+
+Amennyiben a kész szoftver használ sql adatbázisokat, akkor a config
+könyvtárba található sql.sql fájl tartalmát létre kell hozni a
+mysql szerveren phpmyadmin programmal, amjd a szerver elérési
+adatait a config könyvtár system.php fájljába át kell írni. Itt
+lehet megadni a smtp szerver adatait a levelezéshez.
+

@@ -1,0 +1,26 @@
+<p>
+-Az általunk elvégzett szolgáltatások ellenértéke a mindenkor érvényes Árlista alapján
+kerül kiszámlázásra, amely megtekinthető honlapunkon és szervizünkben. Szerződött partnereinknek
+a szerződésben meghatározottak szerint történik az elszámolás.
+</p>
+<p>
+- Minden esetben munkatársunk szóban vagy írásban tájékoztatja a Megrendelőt a várható költségekről.
+A tájékoztatás előzetes becslés, a végleges költségek változhatnak a beépített anyagok árának
+változásai és a javítás közben felmerülő (rejtett vagy további) hibák javításai miatt.
+</p>
+<p>
+- A megrendelés visszavonható, ekkor az Árlistában meghatározott Bevizsgálási díj kerül számlázásra.
+Az elfogadott javítási ajánlat a javítás megkezdése után már nem vonható vissza, a javítás költségei
+kiszámlázásra kerülnek.
+</p>
+<p>
+- A javítás során beépített eszközökre annak gyártója vállal garanciát.
+</p>
+<p>
+- A javítandó termékben fennálló rejtett hibákért, az ebből eredő károkért nem vállalunk felelősséget.
+</p>
+<p>
+- Az adathordozókon tárolt adatok, információk megőrzéséért nem vállalunk felelősséget, az adatok,
+programok helyreállítása, az adatmentés a Megrendelő feladata.
+</p>
+

@@ -1,0 +1,9 @@
+
+Copy all directorys and files to server.
+Modify into ./.htaccess with correct server path.
+Modify into ./config/.htaccess with correct server path.
+
+If avaliable ./config/sql.sql file, create tables with phpmyadmin.
+
+Change all information ./config/system.php.
+

@@ -1,0 +1,4 @@
+#AuthType Basic
+#AuthName "Admin Site"
+#AuthUserFile /home/peter/public_html/auxogame/config/.htpasswd
+#Require valid-user

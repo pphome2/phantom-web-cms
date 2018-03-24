@@ -1,0 +1,23 @@
+
+Minden alkönyvtárban kell lennie egy index.php-nak az indul el a menüre.
+
+Games alkönyvtárban minden alkönyvtárban kell lennie:
+- icon.png
+- icon_text.html
+(Ezek szerepelnek a listában...)
+
+A könyvtár neve lehet: 
+.   = '
+_   = szóköz
+o:  = ö
+u:  = ü
+o=  = ő
+u=  = ű
+o-  = ó
+u-  = ú
+i-  = í
+e-  = é
+a-  = á
+
+akkor nem kell a html fájl.
+

@@ -1,0 +1,16 @@
+
+Amennyiben a kész szoftver több nyelvet is támogat, a config
+könyvtárban lévő lang.?? fájlból kell egy másolatot készíteni
+az adott nyelv két karakteres kódjával (? helyére), és abban 
+átírni az üzeneteket a adott nyelvűre.
+
+Pl.:
+{"Oldal":"Oldal"}
+helyett:
+{"Oldal":"Page"}
+
+Mivel a menüpontok azonos nevű könyvtárnevet feltételeznek a
+centent könyvtárban, így linket kell létrehozni az adott nyelven,
+vagyis például a Játékok nevű menüpont és könyvtár esetén angol
+nyelven kell egy Games linket létrehozni a content alkönyvtárban,
+ami a Játékok könyvtárra mutat.
