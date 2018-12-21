@@ -1,4 +1,7 @@
 # phantom-web-cms
+
+Project is EOL. 
+
 phantom-web-cms
 
 This is not real CMS, but provide same php code to
